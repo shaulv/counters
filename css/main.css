@@ -115,6 +115,7 @@ body {
   margin-left: 16px;
   height: inherit;
   width: 69vw;
+  background: transparent;
 }
 
 #addCounter .wrap .input-wrap #addBtn {
@@ -228,7 +229,6 @@ main {
   width: 54px;
   height: inherit;
   cursor: pointer;
-  border: 1px solid #dfdfdf;
 }
 
 .counter .wrap .minus-btn:active {
